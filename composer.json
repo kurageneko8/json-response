@@ -1,6 +1,5 @@
 {
-    "require": {
-    },
+    "name": "kurageneko8/json-response",
     "description": "return HTTP status",
     "keywords": ["Json", "Response"],
     "license": "MIT",
