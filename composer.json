@@ -7,9 +7,11 @@
     "type": "library",
 
     "authors": [
-      "name": "terdia",
-      "email": "su@hoge.com",
-      "homepage": "https://devscreencast.com"
+      {
+        "name": "terdia",
+        "email": "su@hoge.com",
+        "homepage": "https://devscreencast.com"
+      }
     ],
 
     "require": {
