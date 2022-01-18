@@ -2,7 +2,7 @@
 return HTTP status
 
 ## Installation
-use Devscreencast\ResponseClass\JsonResponse;
+composer require kurageneko8/json-response
 
 ### Usage
 ```php
